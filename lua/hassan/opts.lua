@@ -27,3 +27,5 @@ o.swapfile = false
 o.updatetime = 300
 o.wildignore:append { '*/node_modules/*' }
 o.wrap = false
+
+vim.cmd[[colorscheme tokyonight-night]]
